@@ -1,2 +1,2 @@
-# Wheather-App
-🌤️ A responsive weather app built with React and OpenWeatherMap API. Displays real-time weather conditions, temperature, humidity, and location-based forecasts using clean UI and dynamic icons.
+# Quiz-App
+A fully responsive Quiz App built with modern web technologies. Users can answer multiple-choice questions, get immediate results, and track their scores interactively.
